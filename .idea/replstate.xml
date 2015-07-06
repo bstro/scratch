@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1436140431513">{:repl-history {:ide [], :local [], :remote [&quot;(use 'figwheel-sidecar.repl-api)&quot; &quot;(cljs-repl)&quot; &quot;(fig-status)&quot; &quot;\&quot;hello wrld\&quot;&quot;]}}</component>
+</project>

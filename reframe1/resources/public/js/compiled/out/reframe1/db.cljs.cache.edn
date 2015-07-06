@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3211
+{:use-macros nil, :excludes #{}, :name reframe1.db, :imports nil, :requires nil, :uses nil, :defs {default-db {:meta {:end-column 16, :end-line 3, :column 6, :line 3, :file "/Users/bstro/Dropbox/Developer/scratch/reframe1/src/cljs/reframe1/db.cljs"}, :file "src/cljs/reframe1/db.cljs", :line 3, :column 1, :end-line 3, :end-column 16, :test true, :name reframe1.db/default-db}}, :require-macros nil, :cljs.analyzer/constants {:order [:name], :seen #{:name}}, :doc nil}
