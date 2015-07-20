@@ -5,7 +5,7 @@
 (defn home-panel []
   (let [name (re-frame/subscribe [:name])]
     (fn []
-      [:div (str "Hello from " @name ". This is the Home Page.")
+      [:input {:value "hello world"}
        [:div [:a {:href "#/about"} "go to About Page"]]])))
 
 (defn about-panel []

@@ -1,7 +1,269 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c632e56c-4c93-403d-99e4-34837034f7a7" name="Default" comment="" />
+    <list default="true" id="c632e56c-4c93-403d-99e4-34837034f7a7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/array/array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/asserts/asserts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/batching.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/batching.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/batching.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/batching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/labs/useragent/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/browserevent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/dom/browserfeature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/browserfeature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/buffers.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/buffers.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/buffers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/buffers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/channels.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/channels.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/channels.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/channels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs_deps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/component.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/component.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/component.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/connect.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/connect.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/connect.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/math/coordinate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/core.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/core.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/core.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/core.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/secretary/core.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/secretary/core.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/secretary/core.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/secretary/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/data.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/data.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/data.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/db.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/db.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/db.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/db.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/db.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/db.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/debug.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/debug.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/debug.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/mochikit/async/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/deps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/labs/useragent/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/dispatch.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/dispatch.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/dispatch.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/dispatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/disposable/disposable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/dom/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/labs/useragent/engine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/debug/entrypointregistry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/debug/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/history/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/eventhandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/eventid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/eventtarget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/eventtype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/history/eventtype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/file_reloading.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/file_reloading.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/file_reloading.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/file_reloading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/firebase.inc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firebase.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/functions/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/handlers.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/handlers.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/handlers.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/handlers.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/handlers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/handlers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/handlers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/handlers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/heads_up.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/heads_up.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/heads_up.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/heads_up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/history/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/disposable/idisposable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/interop.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/interop.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/interop.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/interop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/ioc_helpers.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/ioc_helpers.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/ioc_helpers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/ioc_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/iter/iter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/net/jsloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/listenable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/listener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/events/listenermap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/structs/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/math/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/memoize/memoize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/middleware.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/middleware.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/middleware.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/async/nexttick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/dom/nodetype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/object/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/promise/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/protocols.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/protocols.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/protocols.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/protocols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/ratom.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/ratom.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/ratom.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/ratom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/react.inc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/reader.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/reader.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/reader.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/reader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/reflect/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/registry.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/registry.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/registry.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/registry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/repl.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/repl.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/repl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/repl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/promise/resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/router.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/router.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/router.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/routes.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/routes.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/routes.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/async/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/homesale/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/set.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/set.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/set.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/math/size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/socket.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/socket.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/socket.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/string.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/string.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/string.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/string/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/string/stringbuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/structs/structs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/subs.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/subs.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/subs.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/subs.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/subs.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/subs.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/subs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/subs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/dom/tagname.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/template.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/template.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/template.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/promise/thenable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/timer/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/timers.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/timers.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/timers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cljs/core/async/impl/timers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/undo.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/undo.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/undo.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/undo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/uri/uri.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/useragent/useragent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/util.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/util.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/labs/useragent/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reagent/impl/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/utils.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/utils.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/utils.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/utils.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/utils.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/utils.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/utils.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/utils.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/utils.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/figwheel/client/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/uri/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/matchbox/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/re_frame/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/views.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/views.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/views.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/reframe1/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/walk.cljs.cache.edn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/walk.cljs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/walk.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/clojure/walk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goog/testing/watchers.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/cljs/reframe1/server.cljs.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/figwheel_temp/dev/figwheel/connect.cljs" afterPath="$PROJECT_DIR$/target/figwheel_temp/dev/figwheel/connect.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cljs/reframe1/core.cljs" afterPath="$PROJECT_DIR$/src/cljs/reframe1/core.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reframe1.iml" afterPath="$PROJECT_DIR$/reframe1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.cljs.cache.edn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.cljs" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cljs/reframe1/views.cljs" afterPath="$PROJECT_DIR$/src/cljs/reframe1/views.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reframe1/views.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="reframe1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,66 +283,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/views.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/routes.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52991456">
-              <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subs.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/subs.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="handlers.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/handlers.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/db.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="core.cljs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/core.cljs">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +293,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="repl.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/repl.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -101,8 +326,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/cljs/reframe1/server.cljs" />
+        <option value="$PROJECT_DIR$/src/cljs/reframe1/views.cljs" />
+        <option value="$PROJECT_DIR$/src/script/script.clj" />
         <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/script/repl.clj" />
+        <option value="$PROJECT_DIR$/src/cljs/reframe1/core.cljs" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="NamedScopeManager">
@@ -112,7 +349,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -135,7 +372,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -168,14 +404,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cljs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reframe1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -187,20 +415,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="clj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reframe1" />
+              <option name="myItemId" value="script" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -212,8 +433,9 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
     <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Clojure REPL.nrepl">
+  <component name="RunManager" selected="Clojure REPL.figwheel">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -284,13 +506,13 @@
       <method />
     </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Local">
-      <setting name="useLein" value="true" />
-      <setting name="useClojureMain" value="false" />
-      <setting name="leinProjectName" value="" />
-      <module name="" />
+      <setting name="useLein" value="false" />
+      <setting name="useClojureMain" value="true" />
+      <setting name="leinProjectName" value="reframe1:0.1.0-SNAPSHOT" />
+      <module name="reframe1" />
       <setting name="jvmArgs" value="" />
-      <setting name="parameters" value="" />
-      <setting name="workingDir" value="" />
+      <setting name="parameters" value="script/repl.clj" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
       <method />
     </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Remote">
@@ -298,6 +520,15 @@
       <setting name="port" value="7888" />
       <setting name="useLein" value="false" />
       <setting name="leinProjectName" value="reframe1:0.1.0-SNAPSHOT" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="repl" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
@@ -378,18 +609,24 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="nrepl" type="ClojureREPL" factoryName="Remote">
-      <setting name="host" value="127.0.0.1" />
-      <setting name="port" value="7888" />
+    <configuration default="false" name="figwheel" type="ClojureREPL" factoryName="Local">
       <setting name="useLein" value="false" />
+      <setting name="useClojureMain" value="true" />
       <setting name="leinProjectName" value="reframe1:0.1.0-SNAPSHOT" />
+      <module name="reframe1" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="script/repl.clj" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.nrepl" />
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.figwheel" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c632e56c-4c93-403d-99e4-34837034f7a7" name="Default" comment="" />
@@ -405,28 +642,29 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.50547945" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32786885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.49452055" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21567044" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20113085" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -439,13 +677,13 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.50547945" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.49452055" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22374798" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20840065" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -455,8 +693,19 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -467,7 +716,47 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/clj/reframe1/core.clj">
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -475,10 +764,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/clj/reframe1/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/subs.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/views.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/routes.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5982906">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/handlers.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/db.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -491,42 +822,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/db.cljs">
+    <entry file="file://$PROJECT_DIR$/script/repl.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/handlers.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/subs.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cljs/reframe1/routes.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52991456">
-          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
           <folding />
         </state>
       </provider>
